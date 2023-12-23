@@ -1,0 +1,3 @@
+E:/Data Struc/trees/cmake-build-debug/CMakeFiles/trees.dir
+E:/Data Struc/trees/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/Data Struc/trees/cmake-build-debug/CMakeFiles/rebuild_cache.dir
